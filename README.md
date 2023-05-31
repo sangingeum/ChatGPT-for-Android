@@ -15,11 +15,11 @@ API키를 입력하고 START버튼을 누르면 채팅 창으로 이동합니다
 
 
 <div style="display:flex">
-<img src="./readme_images/1.JPG" alt="screenshot1" width="250" height="500"/>
-<img src="./readme_images/2.JPG" alt="screenshot2" width="250" height="500"/>
+<img src="./readme_images/1.jpg" alt="screenshot1" width="250" height="500"/>
+<img src="./readme_images/2.jpg" alt="screenshot2" width="250" height="500"/>
 </div>
 <div style="display:flex">
-<img src="./readme_images/3.JPG" alt="screenshot1" width="250" height="500"/>
-<img src="./readme_images/4.JPG" alt="screenshot2" width="250" height="500"/>
+<img src="./readme_images/3.jpg" alt="screenshot1" width="250" height="500"/>
+<img src="./readme_images/4.jpg" alt="screenshot2" width="250" height="500"/>
 </div>
 
